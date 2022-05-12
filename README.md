@@ -32,3 +32,6 @@ Sigue asi hasta que termine de revisar todos los ficheros de Documentos
 ### Codigo arduino:  
 * Para el codigo de arduino que usa el Attiny85 es el siguiente:  
  ![arduino code](https://github.com/Benqui/Attiny-BadUsb-Rubber-Ducky/blob/main/media/arduino_c.png) 
+
+* Utilizamos la libreria ```DigiKeyboard.h``` con la que podemos ser capaces de hacer que el Attiny85 se registre como un teclado.  
+Con la funcion ```DigiKeyboard.sendKeyStroke()``` 
