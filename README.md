@@ -5,6 +5,6 @@ Proyecto Final SOII
 * Benjamin Hoyos Herrera
 * Angel Yedid Nacif Mena
 * Carlos Abraham Martines Zamora
-* Genaro Gonzales Lozada
+* Genaro Gonzales Lozada  
 Proyecto Final SO II
 
