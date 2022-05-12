@@ -29,6 +29,6 @@ Proyecto Final SO II
 Esta funcion recorre asi cada elemento de la carpeta dada en un ciclo ```for``` con una comprobacion para saber si el elemento que encontramos es una carpeta o un documento, si es una carpeta entra a seguir buscando llamandose asi misma (por eso es recursiva), si por el contrario es un documento usando un ```use-case``` podemos ver si es un pdf o un archivo de word si ese es el caso hace una copia de ese documento en una carpeta  
 Sigue asi hasta que termine de revisar todos los ficheros de Documentos  
 
-
-
-### Codigo arduino:
+### Codigo arduino:  
+* Para el codigo de arduino que usa el Attiny85 es el siguiente:  
+ ![arduino code](https://github.com/Benqui/Attiny-BadUsb-Rubber-Ducky/blob/main/media/arduino_c.png) 
