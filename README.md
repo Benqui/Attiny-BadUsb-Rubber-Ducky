@@ -8,3 +8,14 @@ Proyecto Final SOII
 * Genaro Gonzales Lozada  
 Proyecto Final SO II
 
+## Alcance establecido:
+
+## Requisitos para hacerlo:
+
+## Como configurar el Attiny85 USB:
+
+## Descripcion de los codigos:
+
+### Codigo Bash:
+
+### Codigo arduino:
