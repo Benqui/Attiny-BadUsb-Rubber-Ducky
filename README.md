@@ -5,7 +5,7 @@ Proyecto Final SOII
 * Benjamin Hoyos Herrera
 * Angel Yedid Nacif Mena
 * Carlos Abraham Martines Zamora
-* Genaro Gonzales Lozada  
+* Genaro Gonzalez Lozada  
 Proyecto Final SO II
 
 ## Alcance establecido:
@@ -19,5 +19,5 @@ Proyecto Final SO II
 ## Descripcion de los codigos:
 
 ### Codigo Bash:
-
+* El codigo de bash funciona de la siguiente manera
 ### Codigo arduino:
