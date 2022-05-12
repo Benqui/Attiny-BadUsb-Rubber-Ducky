@@ -9,7 +9,9 @@ Proyecto Final SOII
 Proyecto Final SO II
 
 ## Alcance establecido:
-
+* Activación: attiny al conectar.
+* Lenguaje: interfaz Arduino con shell/bash.
+* Alcance: carpeta documentos del home.
 ## Requisitos para hacerlo:
 
 ## Como configurar el Attiny85 USB:
