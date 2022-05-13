@@ -27,10 +27,11 @@ Proyecto Final SO II
 
 * Nota importante: Como pueden ver en la documentacion hay algunos pasos extra que hay que añadir para que la libreria funcione correctamente en Ubuntu los cuales son:
 
-    - 
-    - libusb:
-    - 
-
+    - Grupo dialout:  
+    En ubuntu, tenemos que añadirnos al grupo dialout para poder programar el Attiny, esto se realiza con el siguiente comando ```sudo adduser $USER dialout```
+    - libusb:  
+    Necesitas instalar ```libusb-1.0-0-dev```
+    ```sudo apt-get install libusb-1.0-0-dev```
 
 
 
